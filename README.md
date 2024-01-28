@@ -1,5 +1,5 @@
 # max_oil_rig_value
-Using dynamic programming to maximize the estimated value produced by oil rigs given a budget, cost, and the specific gravity of crude
+Using dynamic programming to maximize the estimated value produced by oil rigs given a budget, cost, and the specific gravity of crude.
 ## Overview
 This software is designed to optimize the selection and construction of oil rigs in different locations to maximize the total profit per barrel of oil, given a budget, cost of rigs, and the specific gravity of crude. The program utilizes dynamic programming (knapsack) to determine the most profitable combination of rigs within the specified financial constraints.
 
@@ -30,6 +30,7 @@ The program outputs the optimized plan for rig construction, including the total
 
 ## Example Input and Output
 This demonstrates an example input file and the corresponding output. Note that three test cases are also provided within this repository.
+
 _Input:_
 ```
 8 # budget
